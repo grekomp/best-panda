@@ -34,7 +34,14 @@ sections:
     section_id: lorem-ipsum
     content: |
       This hero should probably not be here.
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        icon_class: dev
+        new_window: false
+        no_follow: false
+        type: action
     type: section_hero
     image: images/picjumbo.com_HNCK2645.jpg
 seo:
