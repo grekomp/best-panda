@@ -12,6 +12,7 @@ sections:
       - url: /docs
         style: secondary
         icon_class: github
+        label: Continue on
   - section_id: features
     type: section_grid
     col_number: three
