@@ -35,7 +35,7 @@ sections:
     content: |
       This hero should probably not be here.
     actions:
-      - label: lorem-ipsum
+      - label: But it is glorious
         url: '#'
         style: link
         icon_class: dev
