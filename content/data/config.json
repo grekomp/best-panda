@@ -88,7 +88,7 @@
             {
                 "label": "lorem-ipsum",
                 "url": "#",
-                "style": "icon",
+                "style": "primary",
                 "icon_class": "github",
                 "new_window": false,
                 "no_follow": false,
