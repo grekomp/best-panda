@@ -10,7 +10,7 @@ sections:
       one to three sentences, but can be changed as you prefer.
     actions:
       - url: /docs
-        style: icon
+        style: secondary
         icon_class: github
   - section_id: features
     type: section_grid
