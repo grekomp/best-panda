@@ -7,7 +7,7 @@ sections:
     image: images/5.jpg
   - section_id: showcase
     type: section_grid
-    col_number: three
+    col_number: two
     grid_items:
       - title: Exto
         title_url: 'https://themes.stackbit.com/demos/exto/'
