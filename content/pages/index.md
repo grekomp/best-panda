@@ -99,9 +99,6 @@ sections:
     title: The Title of The Call to Action Block
     subtitle: This is an optional description for the call to action block.
     actions:
-      - label: Get Started
-        url: /docs/getting-started/installation
-        style: primary
       - label: lorem-ipsum
         url: '#'
         style: link
@@ -109,6 +106,9 @@ sections:
         new_window: false
         no_follow: false
         type: action
+      - label: Get Started
+        url: /docs/getting-started/installation
+        style: primary
 seo:
   title: Stackbit Libris Theme
   description: The preview of the Libris theme
