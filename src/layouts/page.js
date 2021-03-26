@@ -9,7 +9,7 @@ export default class Page extends React.Component {
         return (
             <Layout {...this.props}>
               <article className="post post-full">
-                <header className="post-header outer">
+                <header className="post-header has-gradient outer">
                   {_.get(this.props, 'page.frontmatter.image', null) && (
                   <div className="bg-img" style={toStyleObj('background-image: url(\'' + withPrefix(_.get(this.props, 'page.frontmatter.image', null)) + '\')')}/>
                   )}
