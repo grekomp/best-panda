@@ -12,6 +12,7 @@ sections:
       - label: Get Started
         url: /docs
         style: icon
+        icon_class: github
   - section_id: features
     type: section_grid
     col_number: three
