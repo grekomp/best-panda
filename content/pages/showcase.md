@@ -45,6 +45,7 @@ sections:
       - dolor sit amet
     actions: []
     type: section_hero
+    image: images/picjumbo.com_HNCK2645.jpg
 seo:
   title: Showcase
   description: This is the showcase page
